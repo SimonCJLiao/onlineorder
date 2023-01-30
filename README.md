@@ -1,6 +1,5 @@
 # onlineorder
 Spring MVC and hibernate based online order system
-Demo: http://54.237.220.243/
 - Implemented Rest API via Spring Web MVC including registration, menu search, order, and checkout.
 - Utilized Hibernate to access and operate the data storage (menu, restaurants, etc.)
 - Provided authentication and authorization via Spring security to protect the application from malicious attacks.
